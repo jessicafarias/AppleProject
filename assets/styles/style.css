@@ -54,7 +54,7 @@ a:hover {
 
 /* Header */
 header {
-  background-image: url("/assets/images/Background.png");
+  background-image: url("assets/images/Background.png");
   background-size: cover;
 }
 
