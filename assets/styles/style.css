@@ -66,8 +66,10 @@ a:hover {
 
 /* Header */
 header {
-  background-image: url(../images/Background.png);
-  background-size: cover;
+  background-image: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: initial;
 }
 
 .header-text p {
@@ -210,6 +212,10 @@ input[type="text"] {
       rgba(118, 118, 118, 1) 100%
     );
   transition: width 0.5s;
+  background-image: url(../images/magnifying-glass.svg);
+  background-repeat: no-repeat;
+  background-position: 5% 50%;
+  background-size:  12px 12px;
 }
 
 input[type="text"]:focus {
@@ -217,6 +223,10 @@ input[type="text"]:focus {
   width: 180px;
   background: white;
   border: 1px solid wheat;
+  background-image: url(../images/magnifying-glass-gray.svg);
+  background-repeat: no-repeat;
+  background-position: 5% 50%;
+  background-size:  12px 12px;
 }
 
 /* Footer section */
