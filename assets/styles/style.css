@@ -43,13 +43,25 @@ a {
   color: #08c;
 }
 
-a:hover {
-  text-decoration: underline;
+/* Images section */
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0;
 }
 
-.section-images a {
+main img {
+  width: 100%;
+}
+
+main a {
   max-width: 25%;
   max-height: 100%;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 /* Header */
@@ -195,17 +207,7 @@ input[type="text"]:focus {
   object-fit: fill;
 }
 
-/* Images section */
-.section-images {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 0;
-}
 
-.section-images img {
-  width: 100%;
-}
 
 /* Footer section */
 footer {
