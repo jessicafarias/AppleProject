@@ -57,7 +57,6 @@ main img {
 
 main a {
   max-width: 25%;
-  max-height: 100%;
 }
 
 a:hover {
@@ -66,7 +65,7 @@ a:hover {
 
 /* Header */
 header {
-  background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");  
+  background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
   background-repeat: no-repeat;
   background-position: 50% 100%;
   background-size: 1440px 1325px;
@@ -201,12 +200,12 @@ input[type="text"] {
   border: 1px solid #585858;
   border-radius: 11px;
   overflow: auto;
-  background:rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.1);
   transition: width 0.5s;
   background-image: url(../images/magnifying-glass.svg);
   background-repeat: no-repeat;
   background-position: 6% 50%;
-  background-size:  12px 12px;
+  background-size: 12px 12px;
 }
 
 input[type="text"]:focus {
@@ -217,7 +216,7 @@ input[type="text"]:focus {
   background-image: url(../images/magnifying-glass-gray.svg);
   background-repeat: no-repeat;
   background-position: 5% 50%;
-  background-size:  12px 12px;
+  background-size: 12px 12px;
 }
 
 /* Footer section */
