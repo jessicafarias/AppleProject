@@ -48,15 +48,18 @@ main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 0;
+  margin: auto;
+  justify-content: center;
+  max-width: 1440px;
 }
 
 main img {
-  width: 100%;
+  min-width: 25vh;
 }
 
 main a {
   max-width: 25%;
+  display: flex;
 }
 
 a:hover {
@@ -67,14 +70,15 @@ a:hover {
 header {
   background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
   background-repeat: no-repeat;
-  background-position: 50% 100%;
-  background-size: 1440px 1325px;
+  background-position: center bottom;
+  max-width: 1440px;
+  margin: auto;
+  min-height: 78vh;
 }
 
 .header-text p {
   margin-top: 10px;
   margin-bottom: 2px;
-  padding-bottom: 155px;
   padding-top: 24px;
   font-size: 25px;
   color: rgb(219, 219, 219);
@@ -86,9 +90,10 @@ header {
 
 .header-text {
   margin: auto;
-  padding-top: 30px;
   max-width: 800px;
   text-align: center;
+  min-height: 58vh;
+  padding-top: 5vh;
 }
 
 nav {
@@ -132,6 +137,7 @@ nav a:hover {
       rgba(61, 61, 61, 1) 84%,
       rgba(80, 80, 80, 1) 100%
     );
+  text-decoration: none;
 }
 
 .links-container {
@@ -222,7 +228,9 @@ input[type="text"]:focus {
 /* Footer section */
 footer {
   padding: 10px;
-  margin: 10px 68px;
+  max-width: 1000px;
+  min-width: 800px;
+  margin: auto;
   font-family:
     "Lucida Sans",
     "Lucida Sans Regular",
@@ -237,9 +245,9 @@ footer {
 
 .footer-menu {
   display: flex;
+  padding: 10px;
   flex-direction: row;
   flex-wrap: wrap;
-  padding: 0 90px;
   justify-content: space-around;
 }
 
