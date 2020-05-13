@@ -66,10 +66,10 @@ a:hover {
 
 /* Header */
 header {
-  background-image: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg);
+  background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");  
   background-repeat: no-repeat;
-  background-position: 50% 100%;
-  background-size: initial;
+  background-position: 50% 100.5%;
+  background-size: 1430px 1315px;
 }
 
 .header-text p {
@@ -96,7 +96,7 @@ nav {
   display: flex;
   justify-items: center;
   margin: 0 auto;
-  padding-top: 83px;
+  padding-top: 85px;
   padding-bottom: 13px;
 }
 
@@ -197,8 +197,7 @@ a span {
 
 input[type="text"] {
   width: 106px;
-  height: 23px;
-  padding-right: 10px;
+  height: 24px;
   border: 1px solid #585858;
   border-radius: 12px;
   overflow: auto;
