@@ -173,6 +173,7 @@ input[type="text"] {
   background-position: 6% 50%;
   background-size: 12px 12px;
   overflow: auto;
+  transition: width 0.5s;
 }
 
 input[type="text"]:focus {
