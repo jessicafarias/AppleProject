@@ -8,9 +8,10 @@ Url: https://web.archive.org/web/20140301004610/http://www.apple.com/
     This project goal is to understand and apply gradients and backgrounds.
 
 ## Requirements:
--Positioning using Flexbox OR Grid
--Floats and positioning
--The CSS background should cover the whole page irrespective of the screen size.
+
+- Positioning using Flexbox OR Grid
+- Floats and positioning
+- The CSS background should cover the whole page irrespective of the screen size.
 
 ## Built With
 
