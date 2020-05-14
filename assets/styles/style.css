@@ -60,14 +60,6 @@ header {
   font-family: "Roboto", sans-serif;
 }
 
-.header-text {
-  margin: auto;
-  max-width: 800px;
-  text-align: center;
-  min-height: 58vh;
-  padding-top: 5vh;
-}
-
 .header-text p {
   padding-top: 24px;
   font-size: 25px;
@@ -76,6 +68,14 @@ header {
 
 .header-text a {
   color: aliceblue;
+}
+
+.header-text {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+  min-height: 58vh;
+  padding-top: 5vh;
 }
 
 nav {
@@ -214,4 +214,9 @@ footer {
 
 .worldwide img {
   width: 18px;
+}
+
+footer a:hover,
+.header-text p:hover {
+  text-decoration: underline;
 }
