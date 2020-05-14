@@ -28,7 +28,7 @@ li {
   float: left;
   text-align: center;
   margin-top: 10px;
-  padding: 0px 5px;
+  padding: 0 5px;
   height: 10px;
   border-right: 1px solid rgb(167, 165, 165);
 }
@@ -44,7 +44,8 @@ main {
   margin: auto;
   max-width: 1440px;
 }
-main a{
+
+main a {
   width: 25%;
 }
 
@@ -151,7 +152,7 @@ p img {
   align-items: center;
   justify-content: center;
   min-width: 11.1%;
-  padding: 0px 15px;
+  padding: 0 15px;
 }
 
 a span {
