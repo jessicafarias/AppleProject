@@ -7,7 +7,7 @@ Url: https://web.archive.org/web/20140301004610/http://www.apple.com/
 
     This project goal is to understand and apply gradients and backgrounds.
 
-# Requirements:
+## Requirements:
     Positioning using Flexbox OR Grid
     Floats and positioning
     The CSS background should cover the whole page irrespective of the screen size.
@@ -21,7 +21,14 @@ Url: https://web.archive.org/web/20140301004610/http://www.apple.com/
 [Live Demo Link](https://raw.githack.com/krash46/AppleProject/homePage/index.html)
 
 
+## Getting Started
 
+To get a local copy up and running follow these simple example steps.
+
+1. Open the terminal comand line window
+2. ``` git clone https://github.com/addod19/Restaurant-Page.git ```
+3. Open the index.html with your favorite browser
+4. Enjoy!
 
 
 ## Authors
