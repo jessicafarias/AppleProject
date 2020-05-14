@@ -49,10 +49,6 @@ main a {
   width: 25%;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
 /* Header */
 header {
   background-image: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg");
@@ -64,6 +60,14 @@ header {
   font-family: "Roboto", sans-serif;
 }
 
+.header-text {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+  min-height: 58vh;
+  padding-top: 5vh;
+}
+
 .header-text p {
   padding-top: 24px;
   font-size: 25px;
@@ -72,14 +76,6 @@ header {
 
 .header-text a {
   color: aliceblue;
-}
-
-.header-text {
-  margin: auto;
-  max-width: 800px;
-  text-align: center;
-  min-height: 58vh;
-  padding-top: 5vh;
 }
 
 nav {
