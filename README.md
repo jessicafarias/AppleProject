@@ -19,7 +19,7 @@ Url: https://web.archive.org/web/20140301004610/http://www.apple.com/
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/krash46/AppleProject/homePage/index.html)
+[Live Demo Link](https://raw.githack.com/jessicafarias/AppleProject/homePage/index.html)
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ Url: https://web.archive.org/web/20140301004610/http://www.apple.com/
 To get a local copy up and running follow these simple example steps.
 
 1. Open the terminal comand line window
-2. ``` git clone https://github.com/addod19/Restaurant-Page.git ```
+2. ``` git clone https://github.com/jessicafarias/AppleProject.git ```
 3. Open the index.html with your favorite browser
 4. Enjoy!
 
@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Jessica Farias**
 
-- Github: [krash46](https://github.com/krash46)
+- Github: [jessicafarias](https://github.com/jessicafarias)
 - Twitter: [@FariasRosado](https://twitter.com/FariasRosado)
 - Linkedin: [jessica-michelle-farias-rosado](https://www.linkedin.com/in/jessica-michelle-farias-rosado/)
 
